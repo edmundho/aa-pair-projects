@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+  color: red;
+  background-color: purple;
+}
+
+h1 {
+  font-size: 38px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+.ingredients-list {
+  list-style: square inside;
+}
+
+ol {
+  list-style: square inside;
+  list-style-type: upper-roman;
+}
+
+header > img {
+  width: 900px;
+}
+
+li > a {
+  text-decoration: none;
+}
+
+.user_review {
+  color: green;
+}
