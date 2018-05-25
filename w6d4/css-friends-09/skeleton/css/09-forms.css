@@ -1,0 +1,21 @@
+/* PHASE 9: Forms */
+
+.content-main{
+  display: flex;
+  justify-content: space-between;
+}
+
+.input > label {
+  display: block;
+  padding: 5px;
+}
+
+form {
+  /* float: right; */
+  width: 400px;
+  background-color: blue;
+}
+
+.content-main li {
+  display: inline-block;
+}
